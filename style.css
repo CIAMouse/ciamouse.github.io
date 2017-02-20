@@ -1,0 +1,41 @@
+h1 {
+color: cadetblue;
+
+font-size: 52px;
+font-weight: bold;
+text-align: center
+}
+
+div.container {
+background: url("http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg") 
+}
+
+h2 {
+color: cadetblue;
+font-size: 34px;
+font-weight: bold;
+text-align: center;
+
+}
+
+p1 {
+color: white;
+font-size: 20px;
+
+
+}
+body{
+    text-align: center;
+    font-family: monospace;
+}
+h3 {
+color: cadetblue;
+font-size: 34px;
+font-weight: bold;
+text-align: center;
+}
+img {
+   height: 150px;
+   width: inherit;
+
+}
