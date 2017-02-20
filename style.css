@@ -7,7 +7,8 @@ text-align: center
 }
 
 div.container {
-background: url("http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg") 
+background: url("http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg");
+   
 }
 
 h2 {
@@ -18,7 +19,7 @@ text-align: center;
 
 }
 
-p1 {
+p1, p2, p3 {
 color: white;
 font-size: 20px;
 
@@ -28,14 +29,19 @@ body{
     text-align: center;
     font-family: monospace;
 }
-h3 {
+h3, h4 {
 color: cadetblue;
 font-size: 34px;
 font-weight: bold;
 text-align: center;
 }
 img {
-   height: 150px;
+   height: 50px;
    width: inherit;
 
+}
+ul, li {
+    text-align: center;
+    color: white; 
+    font-size: 20px;
 }
