@@ -3,11 +3,11 @@ color: cadetblue;
 
 font-size: 52px;
 font-weight: bold;
-text-align: center
+text-align: center;
 }
 
 div.container {
-background: url("http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg");
+background: url("http://www.planwallpaper.com/static/images/6806129-pretty-backgrounds.jpg");
    
 }
 
@@ -20,7 +20,7 @@ text-align: center;
 }
 
 p1, p2, p3 {
-color: white;
+color: black;
 font-size: 20px;
 
 
@@ -44,7 +44,9 @@ ul, li {
     text-align: center;
     color: white; 
     font-size: 20px;
+    
 }
 footer {
-    color: white 
+    color: white;
 }
+
