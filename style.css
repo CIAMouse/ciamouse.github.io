@@ -1,5 +1,5 @@
 h1 {
-color: blue;
+color: dimgray;
 
 font-size: 52px;
 font-weight: bold;
@@ -12,7 +12,7 @@ background: url("http://www.planwallpaper.com/static/images/6806129-pretty-backg
 }
 
 h2 {
-color: blue;
+color: dimgray;
 font-size: 34px;
 font-weight: bold;
 text-align: center;
@@ -30,7 +30,7 @@ body{
     font-family: monospace;
 }
 h3, h4 {
-color: cadetblue;
+color: dimgray;
 font-size: 34px;
 font-weight: bold;
 text-align: center;
@@ -42,11 +42,10 @@ img {
 }
 ul, li {
     text-align: center;
-    color: black; 
+    color: black;
     font-size: 20px;
     
 }
 footer {
     color: white;
 }
-
